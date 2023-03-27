@@ -1,0 +1,10 @@
+*,
+*::before,
+*::after {
+    font-family: "Delicious Handrawn", serif;
+  }
+
+.card img {
+    width: 100%;
+    height: 150px;
+  }
